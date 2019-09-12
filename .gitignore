@@ -1,0 +1,9 @@
+.out
+*.exe
+*.swp
+*.gch
+*.stackdump
+*.dSYM
+*.a
+*.o
+.DS_Store
